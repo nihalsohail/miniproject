@@ -1,4 +1,8 @@
 This is the first line in 1.txt
 This is the second line in 1.txt
 This is the Third line in 1.txt
+<<<<<<< HEAD
 This is the Fourth line from main.
+=======
+This is the fourth line from branch2
+>>>>>>> branch2
